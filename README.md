@@ -7,4 +7,5 @@ The file that I upload is a partial of our code
 - First, type in terminal "Flutter create <any_name_>
 - Second, type "flutter pub get" to download all dependencies
 - Third, Type "flutter run" and open it in any devices that you want
+- Make sure that you import every picture in assets folder into pubspec.yaml
 - Enjoy :)
